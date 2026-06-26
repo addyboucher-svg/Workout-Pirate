@@ -1,2 +1,17 @@
-# Workout-Pirate
-Workout Pirate generates workouts based on your needs and requests whilst communicating and behaving like a pirate. The app also has goal tracking, a streak system, a workout library, and ocean sounds
+Workout Pirate
+
+AI-powered workout generator and fitness goal tracker.
+
+Live Demo
+
+What It Does
+
+Workout Pirate uses AI to generate personalized workout routines and help you track your fitness goals. Get custom exercises tailored to your fitness level and preferences, then monitor your progress as you work toward your targets.
+
+Stack
+
+
+Frontend: React
+Backend: Python/Flask
+AI Model: Claude API
+Deployment: Repli
